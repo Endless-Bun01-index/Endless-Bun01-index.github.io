@@ -1,0 +1,2 @@
+# 忽略 reset_repo.sh 脚本自身
+reset_repo.sh
